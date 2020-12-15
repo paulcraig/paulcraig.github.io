@@ -7,21 +7,21 @@ The reading has also included a lot of nonfiction about effective communication,
 The books are organized into several categories. Each linked files contains links to TED talks or similar presentations, the Amazon site to purchase the book, some reviews and my thoughts.
 
 *Communication*
-* [Crucial Conversations](Book_descriptions_Crucial-Conversations.markdown)
+* [Crucial Conversations](Book_descriptions_Crucial-Conversations.md)
 
 *Leadership*
-* [Factfulness](Book_descriptions_Factfulness.markdown)
+* [Factfulness](Book_descriptions_Factfulness.md)
 
 *Finance*
 
 *Motivation*
-* [Drive](Book_descriptions_Drive.markdown)
-* [Grit](Book_descriptions_Grit.markdown)
+* [Drive](Book_descriptions_Drive.md)
+* [Grit](Book_descriptions_Grit.md)
 
 *Organizations*
 
 *Personal success*
-* [Deep Work](Book_descriptions_Deep_Work.markdown)
+* [Deep Work](Book_descriptions_Deep_Work.md)
 
 *Humor*
-* [Dear Committee Members](Book_descriptions_Dear_Committee_Members.markdown)
+* [Dear Committee Members](Book_descriptions_Dear_Committee_Members.md)
