@@ -7,7 +7,7 @@ The reading has also included a lot of nonfiction about effective communication,
 The books are organized into several categories. Each linked files contains links to TED talks or similar presentations, the Amazon site to purchase the book, some reviews and my thoughts.
 
 *Communication*
-* [Crucial Conversations](Book_descriptions_Crucial-Conversations.md)
+* [Crucial Conversations](Book_descriptions_Crucial_Conversations.md)
 
 *Leadership*
 * [Factfulness](Book_descriptions_Factfulness.md)
