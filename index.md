@@ -11,6 +11,7 @@ The books are organized into several categories. Each linked files contains link
 
 *Leadership*
 * [Factfulness](Book_descriptions_Factfulness.md)
+* [The Coddling of the American Mind](Book_descriptions_Coddling_of_the_American_Mind.md)
 
 *Finance*
 
@@ -22,6 +23,9 @@ The books are organized into several categories. Each linked files contains link
 
 *Personal success*
 * [Deep Work](Book_descriptions_Deep_Work.md)
+
+*Life and Death*
+* [Being Mortal](Book_descriptions_Being_Mortal.md)
 
 *Humor*
 * [Dear Committee Members](Book_descriptions_Dear_Committee_Members.md)
